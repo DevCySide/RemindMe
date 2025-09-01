@@ -1,6 +1,6 @@
 # RemindMe
 
-A simple CLI program to help you keep track of your reminders from [RemindMe article]([URL](https://devcyside.github.io/articles/article_RemindMe.html))
+A simple CLI program to help you keep track of your reminders from [RemindMe article](https://devcyside.github.io/articles/article_RemindMe.html)
 
 The program stores input data in a structured text file, and everything is managed around it. You can add a reminder with a title, and its status is automatically set to "wip". When you complete it, the status field is updated with the completion date. You can also list your "wip" reminders in the CMD interface. 
 
